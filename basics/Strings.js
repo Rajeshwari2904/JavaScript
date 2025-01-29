@@ -1,7 +1,7 @@
 const name = "Akshara";
 const id = 30;
 
-console.log(`Hello my Name is ${name} and my id is ${id}`);//``backtext --- String interpulation--Good Practice
+console.log(`Hello my Name is ${name} and my id is ${id}`);//``backstick --- String interpulation--Good Practice
 
 const newName = new String("Rajeshwari");
 
